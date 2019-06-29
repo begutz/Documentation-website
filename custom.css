@@ -1,14 +1,18 @@
+.main-doc {
+  margin: 0 1rem;
+}
+
 .splash-image {
-  max-width: 500px;
+  max-width: 32rem;
 }
 
 .navbar li {
   list-style: none;
-  margin-bottom: 8px;
+  margin-bottom: 0.5rem;
 }
 
 .navbar ul {
-  padding-inline-start: 0px;
+  padding-inline-start: 0;
 }
 
 .navbar a {
@@ -18,7 +22,7 @@
 
 .navbar {
   background-color: var(--primary-color);
-  padding: 16px;
+  padding: 1rem;
 }
 
 .navbar h1 {
@@ -32,12 +36,12 @@
   width: 100%;
   top: 0;
   left: 0;
-  height: 56px;
-  padding: 0 16px;
+  height: 3.5rem;
+  padding: 0 1rem;
   display: flex;
   align-items: center;
 }
 
 .nav-items {
-  margin-top: 56px;
+  margin-top: 3.5rem;
 }

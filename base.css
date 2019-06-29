@@ -7,6 +7,10 @@
   --accent3: #efefd0;
 }
 
+html {
+  font-size: 16px;
+}
+
 figure > img {
   width: 100%;
   height: auto;
