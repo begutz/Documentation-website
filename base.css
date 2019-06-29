@@ -1,0 +1,33 @@
+:root {
+  --primary-color: #0fa3b1;
+  --foreground-color: #0b0033;
+  --background-color: #fdfdfd;
+  --accent1: #ff6b35;
+  --accent2: #f7c59f;
+  --accent3: #efefd0;
+}
+
+figure > img {
+  width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Gochi Hand", cursive;
+  font-weight: normal;
+}
+
+body {
+  background-color: var(--background-color);
+  font-family: "Montserrat", sans-serif;
+  color: var(--foreground-color);
+}
+
+a {
+  color: var(--primary-color);
+}
